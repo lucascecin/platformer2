@@ -9,3 +9,5 @@ features:
 -fixed step (deterministic) game loop  
   
 Artwork from Pixel Frog (https://pixelfrog-assets.itch.io/kings-and-pigs)
+
+Live here: https://lucascecin.github.io/platformer2/
